@@ -1,4 +1,4 @@
-package com.kw.model;
+package com.td.model;
 
 import java.util.ArrayList;
 import java.util.List;

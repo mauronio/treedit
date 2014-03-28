@@ -1,6 +1,6 @@
-package com.kw.model.project;
+package com.td.model.project;
 
-import com.kw.model.Node;
+import com.td.model.Node;
 
 public class Project extends Node {
 
